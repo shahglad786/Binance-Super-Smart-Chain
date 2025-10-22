@@ -1,0 +1,20 @@
+{
+  "name": "bssc-ai-assistant",
+  "version": "1.0.0",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": {
+    "@solana/web3.js": "^1.83.0",
+    "@solana/wallet-adapter-base": "^0.9.17",
+    "@solana/wallet-adapter-react": "^0.18.14",
+    "@solana/wallet-adapter-react-ui": "^0.18.8",
+    "@solana/wallet-adapter-wallets": "^0.18.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14",
+    "vite": "^4.4.0"
+  }
+}
